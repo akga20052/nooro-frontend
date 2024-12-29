@@ -191,5 +191,3 @@ This project is licensed under the MIT License. Feel free to use it as you see f
 If you encounter any issues or have questions, feel free to open an issue in the repository.
 
 ---
-
-This version is corrected, formatted, and clear for any user to understand and set up the frontend application. Let me know if you need further refinements!
